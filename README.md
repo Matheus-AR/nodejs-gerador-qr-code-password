@@ -27,4 +27,5 @@
 
 ## Dependências
 - prompt
-- 
+- chalk
+- qrcode-terminal
