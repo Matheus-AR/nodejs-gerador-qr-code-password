@@ -8,6 +8,7 @@
 - Usar pacotes prontos do npm.
 - Começar a programar aproveitando pacotes que já existem.
 - Conhecer alguns elementos de arquitetura. Como começar a organizar o código em camadas.
+- Organizar melhor código do projeto.
 
 ## Pré-requisitos e níveis de conhecimento para entender esse projeto
 - Lógica de programação
